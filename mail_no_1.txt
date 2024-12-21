@@ -1,0 +1,13 @@
+Bonjour,
+
+Elle n'est pas accessible par défaut
+pour la raison que les connexions se
+réalisant via la passerelle MiniPavi,
+l'adresse IP utilisée est celle de
+MiniPavi.
+
+Ainsi, pour éviter tant que faire se
+peut que cette adresse puisse être
+blacklistée à cause d'abus
+volontaires ou involontaires, elle
+nécessite une clé.

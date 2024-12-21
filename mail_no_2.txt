@@ -1,0 +1,6 @@
+Voila!
+
+J'ai fait la modification nécessaire :
+pas besoin de clé si le host est le
+même (donc, mettre n'importe quoi
+comme clé)

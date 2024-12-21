@@ -1,0 +1,411 @@
+<zjoin flex-grow={true}>
+  <yjoin
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <yjoin
+      width-align="stretch"
+      gap={0}
+      text-align="middle"
+      width={26}
+    >
+      <para
+        bg={6}
+        fg={0}
+        pad={1}
+        double-width={true}
+        double-height={true}
+      >
+        Can a
+web-like
+environment
+be brought
+to the
+Minitel?
+      </para>
+      <para bg={5} pad={1}>
+        Brought to you by
+Juliet WANG (she/her)
+      </para>
+    </yjoin>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <para
+      bg={6}
+      fg={0}
+      pad={1}
+      double-width={true}
+      double-height={true}
+      text-align="middle"
+    >
+      Introduction
+    </para>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <para
+      bg={6}
+      fg={0}
+      pad={1}
+      double-width={true}
+      double-height={true}
+      text-align="middle"
+    >
+      (Not)
+Reinventing
+the wheel
+    </para>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <para
+      bg={6}
+      fg={0}
+      pad={1}
+      double-width={true}
+      double-height={true}
+      text-align="middle"
+    >
+      But why
+bother?
+    </para>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <para
+      bg={6}
+      fg={0}
+      pad={1}
+      double-width={true}
+      double-height={true}
+      text-align="middle"
+    >
+      Getting to the
+web part
+    </para>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <yjoin
+      width-align="stretch"
+      gap={0}
+      text-align="middle"
+    >
+      <para
+        bg={6}
+        fg={0}
+        pad={1}
+        double-width={true}
+        double-height={true}
+        text-align="middle"
+      >
+      Getting to the
+web part
+      </para>
+      <para bg={5} pad={1}>
+        An opener to React
+      </para>
+    </yjoin>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <yjoin
+      width-align="stretch"
+      gap={0}
+      text-align="middle"
+    >
+      <para
+        bg={6}
+        fg={0}
+        pad={1}
+        double-width={true}
+        double-height={true}
+        text-align="middle"
+      >
+        Getting to the
+web part
+      </para>
+      <para bg={5} pad={1}>
+        Components
+      </para>
+    </yjoin>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <para
+      bg={6}
+      fg={0}
+      pad={1}
+      double-width={true}
+      double-height={true}
+      text-align="middle"
+    >
+      Architecture of
+the project
+    </para>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <yjoin
+      width-align="stretch"
+      gap={0}
+      text-align="middle"
+    >
+      <para
+        bg={6}
+        fg={0}
+        pad={1}
+        double-width={true}
+        double-height={true}
+        text-align="middle"
+      >
+        Architecture of
+the project
+      </para>
+      <para bg={5} pad={1}>
+        Available components
+      </para>
+    </yjoin>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <yjoin
+      width-align="stretch"
+      gap={0}
+      text-align="middle"
+    >
+      <para
+        bg={6}
+        fg={0}
+        pad={1}
+        double-width={true}
+        double-height={true}
+        text-align="middle"
+      >
+        Architecture of
+the project
+      </para>
+      <para bg={5} pad={1}>
+        Anatomy of a minitel application
+made with minitel-react
+      </para>
+    </yjoin>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <yjoin
+      width-align="stretch"
+      gap={0}
+      text-align="middle"
+    >
+      <para
+        bg={6}
+        fg={0}
+        pad={1}
+        double-width={true}
+        double-height={true}
+        text-align="middle"
+      >
+        Intercompatibility
+with MiniPAVI
+      </para>
+      <para bg={5} pad={1}>
+        A completely different paradigm
+      </para>
+    </yjoin>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <yjoin
+      width-align="stretch"
+      gap={0}
+      text-align="middle"
+    >
+      <para
+        bg={6}
+        fg={0}
+        pad={1}
+        double-width={true}
+        double-height={true}
+        text-align="middle"
+      >
+        Intercompatibility
+with MiniPAVI
+      </para>
+      <para bg={5} pad={1}>
+        Am I saved chat?
+      </para>
+    </yjoin>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <para
+      bg={6}
+      fg={0}
+      pad={1}
+      double-width={true}
+      double-height={true}
+      text-align="middle"
+    >
+      What we can do
+& what we can't do
+    </para>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <para
+      bg={6}
+      fg={0}
+      pad={1}
+      double-width={true}
+      double-height={true}
+      text-align="middle"
+    >
+      Next steps
+    </para>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
+
+
+<zjoin flex-grow={true}>
+  <yjoin
+    flex-grow={true}
+    width-align="middle"
+    height-align="middle"
+    bg={4}
+    wrap="word-wrap"
+  >
+    <para
+      bg={6}
+      fg={0}
+      pad={1}
+      double-width={true}
+      double-height={true}
+      text-align="middle"
+    >
+      Conclusion
+    </para>
+  </yjoin>
+  <xjoin fill-char="&#x09;" pad={1} height-align="end">immjs.dev</xjoin>
+</zjoin>
